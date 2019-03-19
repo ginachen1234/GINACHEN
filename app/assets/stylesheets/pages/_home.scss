@@ -1,4 +1,5 @@
 
+
 body {
   margin: 0;
   font: normal 75% Arial, Helvetica, sans-serif;
@@ -22,6 +23,7 @@ canvas {
 .name{
   font-size: 50px !important;
 }
+
 
 
 #mainNav {
@@ -73,7 +75,9 @@ canvas {
 
 
 
+
   #mainNav .nav-link {
+
 
     -webkit-transition: none;
     transition: none;
@@ -98,7 +102,9 @@ canvas {
     border-bottom: 0.25rem solid transparent;
   }
 
+
   #mainNav.navbar-shrink .nav-link:hover {
+
 
     color: #64a19d;
   }
@@ -156,6 +162,7 @@ canvas {
   }
 
   .masthead h1 {
+
 
     font-size: 6.5rem;
     line-height: 6.5rem;
@@ -236,12 +243,12 @@ canvas {
 
   .projects-section .project-text hr {
 
+
     border-color: #64a19d;
     border-width: .25rem;
     width: 30%;
   }
 }
-
 
 .signup-section {
   padding: 10rem 0;
@@ -338,7 +345,7 @@ a:focus, a:hover {
   color: #64a19d !important;
 }
 
-footer {
+.footer {
   padding: 5rem 0;
 }
 
@@ -347,10 +354,11 @@ footer {
 }
 
 
-nav-link  a:-webkit-any-link {
+.nav-link  a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
 }
+
 
 

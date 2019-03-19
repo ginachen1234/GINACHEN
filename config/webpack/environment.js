@@ -11,3 +11,6 @@ environment.plugins.prepend('Provide',
 )
 
 module.exports = environment
+
+
+// config/webpack/environment.js
