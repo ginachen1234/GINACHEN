@@ -1,10 +1,11 @@
 {
   "name": "GINACHEN",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@rails/webpacker": "3.5",
     "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
+    "particlesjs": "^2.2.3",
     "popper.js": "^1.14.7"
   },
   "devDependencies": {
