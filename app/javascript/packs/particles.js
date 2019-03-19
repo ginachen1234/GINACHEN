@@ -1,4 +1,5 @@
 import "particlesjs/dist/particles.min.js";
+
 particlesJS("particles-js", {
   "particles": {
     "number": {
@@ -126,7 +127,6 @@ update = function() {
   requestAnimationFrame(update);
 };
 requestAnimationFrame(update);
-<<<<<<< HEAD
 
 
 particlesJS("particles-js", {
@@ -239,5 +239,3 @@ particlesJS("particles-js", {
   },
   "retina_detect": true
 });
-=======
->>>>>>> 81c113b4d5f63cb5db879eeec423b31126e4d126
