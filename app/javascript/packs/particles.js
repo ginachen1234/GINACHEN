@@ -1,4 +1,5 @@
 import "particlesjs/dist/particles.min.js";
+
 particlesJS("particles-js", {
   "particles": {
     "number": {
